@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5JokesAppV2Application {
 
     public static void main(String[] args) {
-        int a=0;
+        int b=0;
         SpringApplication.run(Spring5JokesAppV2Application.class, args);
     }
 
